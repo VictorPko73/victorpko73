@@ -1,6 +1,6 @@
 
 <h1 align="center">Victor Moreno Cabello</h1>
-<p align="center"><em>Insist and never give up · Constancy</em></p>
+
 
 <p align="center">
   <a href="mailto:victormorenocabello@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
